@@ -1,4 +1,5 @@
-[![Build Status](https://dev.azure.com/thomaswcollins13/TC_PartsUnlimited_Github_AZ400/_apis/build/status/twcollins.PartsUnlimited?branchName=master)](https://dev.azure.com/thomaswcollins13/TC_PartsUnlimited_Github_AZ400/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/thomaswcollins13/TC_PartsUnlimited_Github_AZ400/_apis/build/status/twcollins.PartsUnlimited)](https://dev.azure.com/thomaswcollins13/TC_PartsUnlimited_Github_AZ400/_build/latest?definitionId=3)
+
 
 # Parts Unlimited
 
