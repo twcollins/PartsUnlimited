@@ -4,6 +4,7 @@ pool:
   - msbuild
   - visualstudio
   - vstest
+  - nuget
 
 steps:
 - task: NuGetInstaller@0
