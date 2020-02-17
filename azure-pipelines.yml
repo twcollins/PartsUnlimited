@@ -4,13 +4,12 @@ pool:
   - msbuild
   - visualstudio
   - vstest
-  - nuget
 
 steps:
 - task: NuGetInstaller@0
   displayName: 'NuGet restore'
-  inputs:
-    solution: '**\*.sln'
+#   inputs:
+#     solution: '**\*.sln'
 
 - task: VSBuild@1
   displayName: 'Build solution'
