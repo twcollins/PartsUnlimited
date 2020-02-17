@@ -6,8 +6,8 @@ pool:
   - vstest
 
 steps:
-- task: NuGetInstaller@0
-  displayName: 'NuGet restore'
+# - task: NuGetInstaller@0
+#   displayName: 'NuGet restore'
 #   inputs:
 #     solution: '**\*.sln'
 
